@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 三易備遺
-#+DATE: 2015-09-23 09:34:46
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:56:04.062842
+#+PROPERTY: ID KR1a0063
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1a0063_WYG_011-1a>¶
 三易備遺跋¶
 夫子既没迄今七百年間諸以易名家者専於理則簡¶
@@ -23,4 +25,3 @@
 <pb:KR1a0063_WYG_011-2a>¶
 也易之晦也明也有時也人焉得而已諸時元貞乙未¶
 立春日男士立百拜謹誌¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 三易備遺
-#+DATE: 2015-09-23 09:34:46
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:56:03.882071
+#+PROPERTY: ID KR1a0063
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0063_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　三易備遺　　　　　　易類¶
@@ -33,6 +35,7 @@
 　　　　十月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0063_WYG_000-3a>¶
 三易備遺原序¶
 周禮春官掌三易一曰連山二曰歸藏三曰周易連山¶
@@ -71,4 +74,3 @@
 心知孔子周公與文王黄帝伏羲之心則知天之心咸¶
 <pb:KR1a0063_WYG_000-5a>¶
 淳庚午冬至朱元昇序¶
-

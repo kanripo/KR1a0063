@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 三易備遺
-#+DATE: 2015-09-23 09:34:46
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:56:03.919469
+#+PROPERTY: ID KR1a0063
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1a0063_WYG_002-1a>¶
 欽定四庫全書¶
 　三易備遺卷二¶
@@ -228,4 +230,3 @@
 革亥正而為寅正也愚也居今之世得述其志得見其¶
 事豈不為連山易之幸歟¶
 　三易備遺卷二¶
-
